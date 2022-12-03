@@ -4,6 +4,7 @@
     <p>{{count}}</p>
     <button @click="increment">123</button>
     <p>{{doubleCount}}</p>
+    <button @click="tohomepage"></button>
   </div>
 </template>
 
