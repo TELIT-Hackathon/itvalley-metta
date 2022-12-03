@@ -7,4 +7,4 @@ https://www.figma.com/file/M8nrymhV11K1MLcWwN1DJ8/hackathon-2022?node-id=0%3A1&t
 **Web link:**
 https://teachmehow-8c60d.web.app/
 
-https://prod.liveshare.vsengsaas.visualstudio.com/join?432874D1ED51EB24633D9FF4A22905B7C9AF
+https://prod.liveshare.vsengsaas.visualstudio.com/join?598DFE70CBA016F2CC2FBF971F353042FBA8
